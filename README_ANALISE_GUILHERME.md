@@ -13,6 +13,9 @@ reports/analise_gapminder.html
 src/advanced_analysis.py
 src/notebook_state.py
 src/report_builder.py
+tests/test_advanced_analysis.py
+tests/test_report_builder.py
+pytest.ini
 requirements_guilherme.txt
 ```
 
@@ -37,6 +40,16 @@ No final, execute a ultima celula para gerar o HTML:
 ```text
 reports/analise_gapminder.html
 ```
+
+## Como testar
+
+Execute na raiz do repositorio:
+
+```bash
+pytest
+```
+
+A suite cobre limpeza de dados, validacao do schema, medias ponderadas, indicadores do Banco Mundial, correlacao, regressao e a chamada de geracao do HTML. Os testes usam dados controlados ou arquivos locais, entao nao dependem da internet.
 
 ## Conteudo da analise
 
