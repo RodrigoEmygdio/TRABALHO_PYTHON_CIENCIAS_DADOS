@@ -1,0 +1,11 @@
+jupyterlab
+nbconvert
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+plotly
+requests

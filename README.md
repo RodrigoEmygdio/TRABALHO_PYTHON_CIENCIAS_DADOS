@@ -185,6 +185,8 @@ No Colab, o caminho pode precisar ser alterado conforme onde o arquivo foi carre
 
 Cada integrante deve criar o seu próprio notebook dentro da pasta `notebook/`.
 
+Tambem ha uma analise complementar em `notebooks/analise_gapminder.ipynb`, documentada em `README_ANALISE_GUILHERME.md`, com HTML final em `reports/analise_gapminder.html`.
+
 Boas praticas:
 
 - Manter os dados originais dentro de `datasets/`.
