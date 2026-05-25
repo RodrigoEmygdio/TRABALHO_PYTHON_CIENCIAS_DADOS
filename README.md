@@ -223,9 +223,9 @@ Arquivos atualmente disponíveis em `datasets/`:
 - `drinking_water.csv`
 - `gapminder_full.csv`
 - `gap_minder_merged.csv`
-- `gpd.csv`
+- `gdp.csv`
 - `health_expenditure.csv`
-- `literancy_rate.csv`
+- `literacy_rate.csv`
 - `mortality_rate.csv`
 
 ## Fluxo recomendado para contribuição
